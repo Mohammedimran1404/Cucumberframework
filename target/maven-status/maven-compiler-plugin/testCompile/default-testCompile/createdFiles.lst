@@ -1,0 +1,8 @@
+pageObjects\LoginPage.class
+pageObjects\SearchCustomerByFirstandLastName.class
+testRunner\TestRun.class
+pageObjects\CustomerPage.class
+stepDefinitions\BaseClass.class
+utilities\LogUtility.class
+stepDefinitions\Steps.class
+pageObjects\SearchCustomerByEmail.class

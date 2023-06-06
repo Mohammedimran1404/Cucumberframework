@@ -1,0 +1,899 @@
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfullyDashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfullyYour store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfullyDashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfullyYour store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Invalid username or password
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfullyDashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfullyYour store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfullyDashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfullyYour store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Invalid username or password
+[main] INFO NOP commerce application - Launch browser
+[main] INFO NOP commerce application - Url is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - login button is clicked
+[main] INFO NOP commerce application - Doing assertion
+[main] INFO NOP commerce application - Clicked on customer menu
+[main] INFO NOP commerce application - Clicked on customer menu item
+[main] INFO NOP commerce application - Assertion for add new customer page
+[main] INFO NOP commerce application - Entering all customer info
+[main] INFO NOP commerce application - Clicked on saved button
+[main] INFO NOP commerce application - Doing assertion for confirmation message
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launch browser
+[main] INFO NOP commerce application - Url is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - login button is clicked
+[main] INFO NOP commerce application - Doing assertion
+[main] INFO NOP commerce application - Clicked on customer menu
+[main] INFO NOP commerce application - Clicked on customer menu item
+[main] INFO NOP commerce application - entering customer email in field
+[main] INFO NOP commerce application - Click on search button
+[main] INFO NOP commerce application - browser is closed
+[main] INFO NOP commerce application - Launch browser
+[main] INFO NOP commerce application - Url is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - login button is clicked
+[main] INFO NOP commerce application - Doing assertion
+[main] INFO NOP commerce application - Clicked on customer menu
+[main] INFO NOP commerce application - Clicked on customer menu item
+[main] INFO NOP commerce application - Searching customer by first name and lastname
+[main] INFO NOP commerce application - search button is clicked
+[main] INFO NOP commerce application - browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfullyDashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfullyYour store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfullyDashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfullyYour store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Invalid username or password
+[main] INFO NOP commerce application - Launch browser
+[main] INFO NOP commerce application - Url is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - login button is clicked
+[main] INFO NOP commerce application - Doing assertion for dashboard
+[main] INFO NOP commerce application - Clicked on customer menu
+[main] INFO NOP commerce application - Clicked on customer menu item
+[main] INFO NOP commerce application - Assertion for add new customer page
+[main] INFO NOP commerce application - Entering all customer info
+[main] INFO NOP commerce application - Clicked on saved button
+[main] INFO NOP commerce application - Doing assertion for confirmation message
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application -  adding customer is closed -------------------------------
+[main] INFO NOP commerce application - Launch browser
+[main] INFO NOP commerce application - Url is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - login button is clicked
+[main] INFO NOP commerce application - Doing assertion for dashboard
+[main] INFO NOP commerce application - Clicked on customer menu
+[main] INFO NOP commerce application - Clicked on customer menu item
+[main] INFO NOP commerce application - entering customer email in field
+[main] INFO NOP commerce application - Click on search button
+[main] INFO NOP commerce application - browser is closed
+[main] INFO NOP commerce application - Enter customer by email and first name and last named -------------------------------------
+[main] INFO NOP commerce application - Launch browser
+[main] INFO NOP commerce application - Url is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - login button is clicked
+[main] INFO NOP commerce application - Doing assertion for dashboard
+[main] INFO NOP commerce application - Clicked on customer menu
+[main] INFO NOP commerce application - Clicked on customer menu item
+[main] INFO NOP commerce application - Searching customer by first name and lastname
+[main] INFO NOP commerce application - search button is clicked
+[main] INFO NOP commerce application - browser is closed
+[main] INFO NOP commerce application - Enter customer by email and first name and last named -------------------------------------
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfully Your store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - ----------------------------------------------------------------------------------------------
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO NOP commerce application - Logout is clicked
+[main] INFO NOP commerce application - Page title matched successfully Your store. Login
+[main] INFO NOP commerce application - Browser is closed
+[main] INFO NOP commerce application - ----------------------------------------------------------------------------------------------
+[main] INFO NOP commerce application - Launching browser
+[main] INFO NOP commerce application - URL is opened
+[main] INFO NOP commerce application - username and password is entered
+[main] INFO NOP commerce application - Login button is clicked
+[main] INFO NOP commerce application - Invalid username or password
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Launching browser
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Launching browser
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Launching browser
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Launching browser
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Launching browser
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Launching browser
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Firefox browser is launched
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Firefox browser is launched
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Firefox browser is launched
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Firefox browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Firefox browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Firefox browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Launch browser
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Clicked on add new button
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Clicked on add new button
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Clicked on add new button
+[main] INFO utilities.LogUtility - Assertion for add new customer page
+[main] INFO utilities.LogUtility - Entering all customer info
+[main] INFO utilities.LogUtility - Clicked on saved button
+[main] INFO utilities.LogUtility - Doing assertion for confirmation message
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility -  adding customer is closed -------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - entering customer email in field
+[main] INFO utilities.LogUtility - Click on search button
+[main] INFO utilities.LogUtility - Email id is present in table
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - Url is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - login button is clicked
+[main] INFO utilities.LogUtility - Doing assertion for dashboard
+[main] INFO utilities.LogUtility - Clicked on customer menu
+[main] INFO utilities.LogUtility - Clicked on customer menu item
+[main] INFO utilities.LogUtility - Searching customer by first name and lastname
+[main] INFO utilities.LogUtility - search button is clicked
+[main] INFO utilities.LogUtility - browser is closed
+[main] INFO utilities.LogUtility - Enter customer by email and first name and last named -------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Dashboard / nopCommerce administration
+[main] INFO utilities.LogUtility - Logout is clicked
+[main] INFO utilities.LogUtility - Page title matched successfully Your store. Login
+[main] INFO utilities.LogUtility - Browser is closed
+[main] INFO utilities.LogUtility - ----------------------------------------------------------------------------------------------
+[main] INFO utilities.LogUtility - Chrome browser is launched
+[main] INFO utilities.LogUtility - URL is opened
+[main] INFO utilities.LogUtility - username and password is entered
+[main] INFO utilities.LogUtility - Login button is clicked
+[main] INFO utilities.LogUtility - Invalid username or password

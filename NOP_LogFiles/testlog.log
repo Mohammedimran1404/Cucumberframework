@@ -1,0 +1,899 @@
+2023-06-02 11:50:58,424 - NOP commerce application -INFO - Launching browser
+2023-06-02 11:51:00,742 - NOP commerce application -INFO - URL is opened
+2023-06-02 11:51:07,080 - NOP commerce application -INFO - Launching browser
+2023-06-02 11:51:09,571 - NOP commerce application -INFO - URL is opened
+2023-06-02 11:51:14,781 - NOP commerce application -INFO - Launching browser
+2023-06-02 11:51:16,912 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:06:41,997 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:06:44,700 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:06:45,133 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:06:49,174 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:06:49,310 - NOP commerce application -INFO - Page title matched successfullyDashboard / nopCommerce administration
+2023-06-02 12:06:50,862 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:06:50,894 - NOP commerce application -INFO - Page title matched successfullyYour store. Login
+2023-06-02 12:06:51,066 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:06:51,143 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:06:53,332 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:06:53,805 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:06:56,389 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:06:56,466 - NOP commerce application -INFO - Page title matched successfullyDashboard / nopCommerce administration
+2023-06-02 12:06:58,669 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:06:58,687 - NOP commerce application -INFO - Page title matched successfullyYour store. Login
+2023-06-02 12:06:58,805 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:06:58,877 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:07:01,329 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:07:01,863 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:07:02,430 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:07:02,576 - NOP commerce application -INFO - Invalid username or password
+2023-06-02 12:14:40,046 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:14:42,755 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:14:43,192 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:14:48,582 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:14:48,716 - NOP commerce application -INFO - Page title matched successfullyDashboard / nopCommerce administration
+2023-06-02 12:14:50,509 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:14:50,540 - NOP commerce application -INFO - Page title matched successfullyYour store. Login
+2023-06-02 12:14:50,669 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:14:50,755 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:14:53,670 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:14:54,169 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:14:59,423 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:14:59,500 - NOP commerce application -INFO - Page title matched successfullyDashboard / nopCommerce administration
+2023-06-02 12:15:01,444 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:15:01,474 - NOP commerce application -INFO - Page title matched successfullyYour store. Login
+2023-06-02 12:15:01,621 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:15:01,715 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:15:04,499 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:15:05,064 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:15:06,429 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:15:06,589 - NOP commerce application -INFO - Invalid username or password
+2023-06-02 12:18:06,828 - NOP commerce application -INFO - Launch browser
+2023-06-02 12:18:08,953 - NOP commerce application -INFO - Url is opened
+2023-06-02 12:18:09,252 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:18:13,025 - NOP commerce application -INFO - login button is clicked
+2023-06-02 12:18:13,050 - NOP commerce application -INFO - Doing assertion
+2023-06-02 12:18:13,171 - NOP commerce application -INFO - Clicked on customer menu
+2023-06-02 12:18:14,771 - NOP commerce application -INFO - Clicked on customer menu item
+2023-06-02 12:18:16,088 - NOP commerce application -INFO - Assertion for add new customer page
+2023-06-02 12:18:17,385 - NOP commerce application -INFO - Entering all customer info
+2023-06-02 12:18:19,135 - NOP commerce application -INFO - Clicked on saved button
+2023-06-02 12:18:19,337 - NOP commerce application -INFO - Doing assertion for confirmation message
+2023-06-02 12:18:19,453 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:18:20,460 - NOP commerce application -INFO - Launch browser
+2023-06-02 12:18:22,561 - NOP commerce application -INFO - Url is opened
+2023-06-02 12:18:22,841 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:18:26,185 - NOP commerce application -INFO - login button is clicked
+2023-06-02 12:18:26,206 - NOP commerce application -INFO - Doing assertion
+2023-06-02 12:18:26,340 - NOP commerce application -INFO - Clicked on customer menu
+2023-06-02 12:18:27,825 - NOP commerce application -INFO - Clicked on customer menu item
+2023-06-02 12:18:28,118 - NOP commerce application -INFO - entering customer email in field
+2023-06-02 12:18:28,186 - NOP commerce application -INFO - Click on search button
+2023-06-02 12:18:28,324 - NOP commerce application -INFO - browser is closed
+2023-06-02 12:18:29,393 - NOP commerce application -INFO - Launch browser
+2023-06-02 12:18:31,503 - NOP commerce application -INFO - Url is opened
+2023-06-02 12:18:31,780 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:18:35,864 - NOP commerce application -INFO - login button is clicked
+2023-06-02 12:18:35,887 - NOP commerce application -INFO - Doing assertion
+2023-06-02 12:18:36,002 - NOP commerce application -INFO - Clicked on customer menu
+2023-06-02 12:18:37,646 - NOP commerce application -INFO - Clicked on customer menu item
+2023-06-02 12:18:37,826 - NOP commerce application -INFO - Searching customer by first name and lastname
+2023-06-02 12:18:37,960 - NOP commerce application -INFO - search button is clicked
+2023-06-02 12:18:38,089 - NOP commerce application -INFO - browser is closed
+2023-06-02 12:18:38,133 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:18:40,129 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:18:40,586 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:18:44,393 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:18:44,441 - NOP commerce application -INFO - Page title matched successfullyDashboard / nopCommerce administration
+2023-06-02 12:18:46,228 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:18:46,248 - NOP commerce application -INFO - Page title matched successfullyYour store. Login
+2023-06-02 12:18:46,370 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:18:46,414 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:18:49,114 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:18:49,512 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:18:53,375 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:18:53,404 - NOP commerce application -INFO - Page title matched successfullyDashboard / nopCommerce administration
+2023-06-02 12:18:55,131 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:18:55,152 - NOP commerce application -INFO - Page title matched successfullyYour store. Login
+2023-06-02 12:18:55,263 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:18:55,305 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:18:58,405 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:18:58,850 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:18:59,452 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:18:59,573 - NOP commerce application -INFO - Invalid username or password
+2023-06-02 12:35:14,075 - NOP commerce application -INFO - Launch browser
+2023-06-02 12:35:16,644 - NOP commerce application -INFO - Url is opened
+2023-06-02 12:35:17,277 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:35:21,228 - NOP commerce application -INFO - login button is clicked
+2023-06-02 12:35:21,255 - NOP commerce application -INFO - Doing assertion for dashboard
+2023-06-02 12:35:21,405 - NOP commerce application -INFO - Clicked on customer menu
+2023-06-02 12:35:23,159 - NOP commerce application -INFO - Clicked on customer menu item
+2023-06-02 12:35:24,729 - NOP commerce application -INFO - Assertion for add new customer page
+2023-06-02 12:35:26,356 - NOP commerce application -INFO - Entering all customer info
+2023-06-02 12:35:28,155 - NOP commerce application -INFO - Clicked on saved button
+2023-06-02 12:35:28,336 - NOP commerce application -INFO - Doing assertion for confirmation message
+2023-06-02 12:35:28,484 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:35:28,484 - NOP commerce application -INFO -  adding customer is closed -------------------------------
+2023-06-02 12:35:29,685 - NOP commerce application -INFO - Launch browser
+2023-06-02 12:35:31,857 - NOP commerce application -INFO - Url is opened
+2023-06-02 12:35:32,224 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:35:36,704 - NOP commerce application -INFO - login button is clicked
+2023-06-02 12:35:36,730 - NOP commerce application -INFO - Doing assertion for dashboard
+2023-06-02 12:35:36,925 - NOP commerce application -INFO - Clicked on customer menu
+2023-06-02 12:35:38,689 - NOP commerce application -INFO - Clicked on customer menu item
+2023-06-02 12:35:39,318 - NOP commerce application -INFO - entering customer email in field
+2023-06-02 12:35:39,428 - NOP commerce application -INFO - Click on search button
+2023-06-02 12:35:39,541 - NOP commerce application -INFO - browser is closed
+2023-06-02 12:35:39,541 - NOP commerce application -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 12:35:40,684 - NOP commerce application -INFO - Launch browser
+2023-06-02 12:35:42,604 - NOP commerce application -INFO - Url is opened
+2023-06-02 12:35:42,884 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:35:48,704 - NOP commerce application -INFO - login button is clicked
+2023-06-02 12:35:48,738 - NOP commerce application -INFO - Doing assertion for dashboard
+2023-06-02 12:35:48,896 - NOP commerce application -INFO - Clicked on customer menu
+2023-06-02 12:35:50,794 - NOP commerce application -INFO - Clicked on customer menu item
+2023-06-02 12:35:51,347 - NOP commerce application -INFO - Searching customer by first name and lastname
+2023-06-02 12:35:51,523 - NOP commerce application -INFO - search button is clicked
+2023-06-02 12:35:51,678 - NOP commerce application -INFO - browser is closed
+2023-06-02 12:35:51,678 - NOP commerce application -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 12:35:51,784 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:35:54,866 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:35:55,554 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:35:59,423 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:35:59,579 - NOP commerce application -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 12:36:01,534 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:36:01,573 - NOP commerce application -INFO - Page title matched successfully Your store. Login
+2023-06-02 12:36:01,705 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:36:01,705 - NOP commerce application -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 12:36:01,779 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:36:04,894 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:36:05,635 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:36:09,297 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:36:09,369 - NOP commerce application -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 12:36:11,685 - NOP commerce application -INFO - Logout is clicked
+2023-06-02 12:36:11,735 - NOP commerce application -INFO - Page title matched successfully Your store. Login
+2023-06-02 12:36:11,883 - NOP commerce application -INFO - Browser is closed
+2023-06-02 12:36:11,884 - NOP commerce application -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 12:36:11,954 - NOP commerce application -INFO - Launching browser
+2023-06-02 12:36:15,077 - NOP commerce application -INFO - URL is opened
+2023-06-02 12:36:15,648 - NOP commerce application -INFO - username and password is entered
+2023-06-02 12:36:17,001 - NOP commerce application -INFO - Login button is clicked
+2023-06-02 12:36:17,126 - NOP commerce application -INFO - Invalid username or password
+2023-06-02 15:27:02,326 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 15:27:04,649 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 15:27:04,976 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:27:10,000 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 15:27:10,064 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 15:27:10,208 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 15:27:11,521 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 15:27:12,921 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-02 15:27:14,345 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-02 15:27:16,004 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-02 15:27:16,214 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-02 15:27:16,353 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 15:27:16,373 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-02 15:27:17,373 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 15:27:19,326 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 15:27:19,721 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:27:23,766 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 15:27:23,799 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 15:27:23,908 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 15:27:25,279 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 15:27:25,599 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-02 15:27:25,684 - utilities.LogUtility -INFO - Click on search button
+2023-06-02 15:27:25,844 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 15:27:25,863 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 15:27:26,711 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 15:27:28,724 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 15:27:29,104 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:27:31,424 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 15:27:31,455 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 15:27:31,554 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 15:27:32,791 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 15:27:32,970 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-02 15:27:33,073 - utilities.LogUtility -INFO - search button is clicked
+2023-06-02 15:27:33,210 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 15:27:33,232 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 15:27:34,161 - utilities.LogUtility -INFO - Launching browser
+2023-06-02 15:27:36,123 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 15:27:36,724 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:27:40,593 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 15:27:40,665 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 15:27:42,432 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 15:27:42,472 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 15:27:42,639 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 15:27:42,662 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 15:27:43,692 - utilities.LogUtility -INFO - Launching browser
+2023-06-02 15:27:44,888 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 15:27:45,415 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:27:49,273 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 15:27:49,326 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 15:27:51,259 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 15:27:51,303 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 15:27:51,446 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 15:27:51,462 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 15:27:52,448 - utilities.LogUtility -INFO - Launching browser
+2023-06-02 15:27:54,329 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 15:27:54,883 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:27:56,262 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 15:27:56,389 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-02 15:59:49,591 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 15:59:51,010 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 15:59:51,363 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 15:59:53,791 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 15:59:53,837 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 15:59:53,964 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 15:59:55,242 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 15:59:56,621 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-02 15:59:57,974 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-02 15:59:59,629 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-02 15:59:59,930 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-02 16:00:00,082 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 16:00:00,104 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-02 16:00:01,142 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:00:02,450 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:00:02,908 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:00:08,007 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:00:08,046 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:00:08,145 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:00:09,739 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 16:00:10,131 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-02 16:00:10,241 - utilities.LogUtility -INFO - Click on search button
+2023-06-02 16:00:10,449 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 16:00:10,469 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 16:00:11,536 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:00:13,018 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:00:13,361 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:00:18,170 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:00:18,208 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:00:18,314 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:00:19,795 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 16:00:20,099 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-02 16:00:20,293 - utilities.LogUtility -INFO - search button is clicked
+2023-06-02 16:00:20,454 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 16:00:20,470 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 16:00:21,426 - utilities.LogUtility -INFO - Launching browser
+2023-06-02 16:00:22,702 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:00:23,308 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:00:25,945 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:00:26,061 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 16:00:28,023 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 16:00:28,069 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 16:00:28,202 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 16:00:28,220 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 16:00:29,230 - utilities.LogUtility -INFO - Launching browser
+2023-06-02 16:00:30,480 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:00:31,139 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:00:33,753 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:00:33,833 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 16:00:35,601 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 16:00:35,638 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 16:00:35,798 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 16:00:35,818 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 16:00:36,833 - utilities.LogUtility -INFO - Launching browser
+2023-06-02 16:00:38,152 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:00:38,624 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:00:39,186 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:00:39,318 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-02 16:16:15,562 - utilities.LogUtility -INFO - Firefox browser is launched
+2023-06-02 16:16:15,598 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:16:18,065 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:16:18,275 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:16:24,178 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:16:24,220 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:16:24,506 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:16:25,314 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 16:16:28,063 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-02 16:16:29,018 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-02 16:16:30,172 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-02 16:16:30,845 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-02 16:16:33,119 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 16:16:33,151 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-02 16:16:36,175 - utilities.LogUtility -INFO - Firefox browser is launched
+2023-06-02 16:16:36,202 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:16:37,773 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:16:37,995 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:16:40,167 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:16:40,199 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:16:40,957 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:16:44,310 - utilities.LogUtility -INFO - Firefox browser is launched
+2023-06-02 16:16:44,340 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:16:45,412 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:16:45,656 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:16:47,467 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:16:47,504 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:16:48,273 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:16:51,419 - utilities.LogUtility -INFO - Firefox browser is launched
+2023-06-02 16:16:52,549 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:16:52,830 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:16:55,067 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:16:55,203 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 16:16:58,408 - utilities.LogUtility -INFO - Firefox browser is launched
+2023-06-02 16:17:00,129 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:17:00,354 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:17:02,237 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:17:02,330 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 16:17:05,561 - utilities.LogUtility -INFO - Firefox browser is launched
+2023-06-02 16:17:06,779 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:17:07,001 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:17:08,337 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:17:09,431 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-02 16:18:35,605 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 16:18:35,638 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:18:37,128 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:18:37,560 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:18:40,045 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:18:40,087 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:18:40,232 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:18:41,771 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 16:18:43,128 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-02 16:18:44,558 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-02 16:18:46,243 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-02 16:18:46,476 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-02 16:18:46,632 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 16:18:46,664 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-02 16:18:47,810 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 16:18:47,839 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:18:49,182 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:18:49,464 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:18:52,685 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:18:52,730 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:18:52,888 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:18:54,238 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 16:18:54,666 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-02 16:18:54,852 - utilities.LogUtility -INFO - Click on search button
+2023-06-02 16:18:55,015 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 16:18:55,052 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 16:18:56,144 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 16:18:56,176 - utilities.LogUtility -INFO - Launch browser
+2023-06-02 16:18:57,502 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 16:18:57,851 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:19:00,129 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 16:19:00,180 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 16:19:00,336 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 16:19:01,642 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 16:19:01,909 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-02 16:19:02,029 - utilities.LogUtility -INFO - search button is clicked
+2023-06-02 16:19:02,177 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 16:19:02,198 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 16:19:03,322 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 16:19:05,423 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:19:05,990 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:19:09,266 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:19:09,398 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 16:19:11,582 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 16:19:11,649 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 16:19:11,820 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 16:19:11,856 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 16:19:13,037 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 16:19:15,100 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:19:15,632 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:19:20,410 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:19:20,460 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 16:19:22,345 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 16:19:23,010 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 16:19:23,348 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 16:19:23,770 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 16:19:23,884 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-02 17:21:51,747 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 17:21:53,758 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 17:21:53,945 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 17:21:56,827 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 17:21:56,862 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 17:21:56,942 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 17:21:58,202 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 17:21:59,208 - utilities.LogUtility -INFO - Clicked on add new button
+2023-06-02 17:21:59,231 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-02 17:21:59,741 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-02 17:22:01,150 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-02 17:22:01,260 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-02 17:22:01,411 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 17:22:01,420 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-02 17:22:02,164 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 17:22:03,723 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 17:22:04,052 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 17:22:07,443 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 17:22:07,506 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 17:22:09,156 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 17:22:09,176 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 17:22:09,301 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 17:22:09,318 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 17:24:49,609 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 17:24:51,304 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 17:24:51,490 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 17:24:54,921 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 17:24:54,947 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 17:24:55,025 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 17:24:56,135 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 17:24:56,363 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-02 17:24:56,455 - utilities.LogUtility -INFO - Click on search button
+2023-06-02 17:24:56,463 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-02 17:24:56,581 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 17:24:56,600 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 17:24:57,302 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 17:24:58,864 - utilities.LogUtility -INFO - Url is opened
+2023-06-02 17:24:59,047 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 17:25:03,704 - utilities.LogUtility -INFO - login button is clicked
+2023-06-02 17:25:03,729 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-02 17:25:03,802 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-02 17:25:05,830 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-02 17:25:05,959 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-02 17:25:06,035 - utilities.LogUtility -INFO - search button is clicked
+2023-06-02 17:25:06,155 - utilities.LogUtility -INFO - browser is closed
+2023-06-02 17:25:06,170 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-02 17:25:06,907 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 17:25:08,676 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 17:25:08,994 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 17:25:12,465 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 17:25:12,521 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-02 17:25:14,126 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-02 17:25:14,148 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-02 17:25:14,285 - utilities.LogUtility -INFO - Browser is closed
+2023-06-02 17:25:14,301 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-02 17:25:15,011 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-02 17:25:16,521 - utilities.LogUtility -INFO - URL is opened
+2023-06-02 17:25:16,847 - utilities.LogUtility -INFO - username and password is entered
+2023-06-02 17:25:18,221 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-02 17:25:18,340 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-04 11:25:32,278 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-04 11:25:34,517 - utilities.LogUtility -INFO - Url is opened
+2023-06-04 11:25:34,830 - utilities.LogUtility -INFO - username and password is entered
+2023-06-04 11:25:35,112 - utilities.LogUtility -INFO - login button is clicked
+2023-06-04 11:25:36,164 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-04 11:25:37,389 - utilities.LogUtility -INFO - Url is opened
+2023-06-04 11:25:37,691 - utilities.LogUtility -INFO - username and password is entered
+2023-06-04 11:25:37,865 - utilities.LogUtility -INFO - login button is clicked
+2023-06-04 11:25:38,867 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-04 11:25:40,655 - utilities.LogUtility -INFO - URL is opened
+2023-06-04 11:25:41,542 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:10:51,486 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:10:55,502 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:10:55,895 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:10:59,991 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:11:00,041 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:11:00,262 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:11:01,573 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:11:02,058 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:11:02,205 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:11:02,239 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:11:02,405 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:11:02,437 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:11:03,561 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:11:05,732 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:11:06,044 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:11:08,263 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:11:08,345 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:11:08,508 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:11:09,749 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:11:10,092 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:11:10,242 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:11:10,423 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:11:10,439 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:11:11,444 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:11:12,744 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:11:13,392 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:11:15,556 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:11:15,692 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:11:17,304 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:11:17,367 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:11:17,511 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:11:17,554 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:11:18,712 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:11:19,794 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:11:20,364 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:11:21,015 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:11:21,195 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 11:12:11,833 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:12:12,827 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:12:13,137 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:12:16,140 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:12:16,201 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:12:16,308 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:12:17,822 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:12:18,207 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:12:18,391 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:12:18,437 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:12:18,621 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:12:18,653 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:12:19,821 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:12:21,172 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:12:21,713 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:12:23,881 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:12:23,956 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:12:24,075 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:12:25,252 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:12:25,502 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:12:25,676 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:12:25,842 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:12:25,870 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:12:26,925 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:12:28,774 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:12:29,521 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:12:33,577 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:12:33,723 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:12:35,446 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:12:35,521 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:12:35,675 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:12:35,704 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:12:36,696 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:12:37,721 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:12:38,263 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:12:38,839 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:12:39,059 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 11:13:16,318 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:13:17,719 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:13:18,011 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:13:20,638 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:13:20,711 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:13:20,920 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:13:22,322 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:13:22,707 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:13:22,891 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:13:22,937 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:13:23,102 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:13:23,131 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:13:24,151 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:13:25,392 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:13:25,771 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:13:28,938 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:13:28,977 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:13:29,145 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:13:30,589 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:13:30,832 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:13:31,007 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:13:31,188 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:13:31,232 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:13:32,239 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:13:34,188 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:13:34,694 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:13:37,169 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:13:37,305 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:13:39,027 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:13:39,083 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:13:39,234 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:13:39,271 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:13:40,258 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:13:41,356 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:13:41,979 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:13:43,411 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:13:43,576 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 11:33:57,213 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:33:59,501 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:33:59,774 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:34:04,593 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:34:04,650 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:34:04,828 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:34:06,527 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:34:07,182 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:34:07,364 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:34:07,408 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:34:07,592 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:34:07,639 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:34:08,634 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:34:10,708 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:34:11,045 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:34:15,026 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:34:15,085 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:34:15,260 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:34:16,593 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:34:16,951 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:34:17,127 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:34:17,298 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:34:17,341 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:34:18,368 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:34:19,428 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:34:20,084 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:34:24,990 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:34:25,129 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:34:27,515 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:34:27,588 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:34:27,740 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:34:27,788 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:34:28,884 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:34:30,228 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:34:30,837 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:34:31,415 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:34:31,612 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 11:35:21,802 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:35:23,155 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:35:23,659 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:35:25,957 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:35:26,012 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:35:26,205 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:35:27,703 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:35:28,051 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:35:28,215 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:35:28,265 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:35:28,435 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:35:28,481 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:35:29,562 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:35:30,630 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:35:31,078 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:35:33,491 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:35:33,552 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:35:33,741 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:35:35,170 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:35:35,433 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:35:35,548 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:35:35,710 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:35:35,725 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:35:36,747 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:35:37,987 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:35:38,597 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:35:40,835 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:35:40,966 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:35:42,666 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:35:42,723 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:35:42,887 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:35:42,935 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:35:44,071 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:35:45,261 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:35:45,762 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:35:46,354 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:35:46,543 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 11:43:01,595 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:43:03,724 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:43:04,017 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:43:08,861 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:43:08,939 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:43:09,159 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:43:11,271 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:43:12,064 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:43:12,319 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:43:12,370 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:43:12,562 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:43:12,600 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:43:13,784 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:43:15,148 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:43:15,658 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:43:20,748 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:43:20,802 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:43:21,013 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:43:22,719 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:43:23,199 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:43:23,408 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:43:23,590 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:43:23,632 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:43:25,073 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:43:27,288 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:43:27,819 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:43:30,319 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:43:30,491 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:43:32,193 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:43:32,270 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:43:32,479 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:43:32,527 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:43:33,690 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:43:34,771 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:43:35,439 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:43:36,160 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:43:36,344 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 11:53:30,740 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:53:32,846 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:53:33,179 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:53:37,894 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:53:37,992 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:53:38,140 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:53:39,969 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:53:40,511 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 11:53:40,687 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 11:53:40,729 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 11:53:40,912 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:53:40,960 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:53:42,118 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:53:43,976 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 11:53:44,443 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:53:47,076 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 11:53:47,134 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 11:53:47,349 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 11:53:48,771 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 11:53:49,117 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 11:53:49,369 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 11:53:49,563 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 11:53:49,606 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 11:53:50,631 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:53:51,748 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:53:52,256 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:53:56,244 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:53:56,355 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 11:53:58,027 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 11:53:58,094 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 11:53:58,286 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 11:53:58,317 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 11:53:59,469 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 11:54:00,520 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 11:54:01,089 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 11:54:01,731 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 11:54:01,917 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 15:42:18,986 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:42:21,462 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 15:42:21,728 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:42:27,568 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 15:42:27,621 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 15:42:28,171 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 15:42:29,585 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 15:42:30,221 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 15:42:30,400 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 15:42:30,438 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 15:42:30,653 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 15:42:30,690 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 15:42:31,789 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:42:33,675 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 15:42:34,089 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:42:38,919 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 15:42:38,961 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 15:42:39,143 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 15:42:40,465 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 15:42:40,840 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 15:42:40,984 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 15:42:41,170 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 15:42:41,226 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 15:42:42,317 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:42:44,135 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 15:42:44,691 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:42:48,761 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 15:42:48,913 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 15:42:51,234 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 15:42:51,309 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 15:42:51,486 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 15:42:51,518 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 15:42:52,526 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:42:54,570 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 15:42:55,120 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:42:56,524 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 15:42:56,717 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-05 15:43:29,374 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:43:31,591 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 15:43:31,891 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:43:35,961 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 15:43:36,019 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 15:43:36,603 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 15:43:38,173 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 15:43:38,821 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-05 15:43:38,987 - utilities.LogUtility -INFO - Click on search button
+2023-06-05 15:43:39,033 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-05 15:43:39,234 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 15:43:39,281 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 15:43:40,454 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:43:42,590 - utilities.LogUtility -INFO - Url is opened
+2023-06-05 15:43:43,051 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:43:46,227 - utilities.LogUtility -INFO - login button is clicked
+2023-06-05 15:43:46,283 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-05 15:43:46,794 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-05 15:43:48,249 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-05 15:43:48,634 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-05 15:43:48,784 - utilities.LogUtility -INFO - search button is clicked
+2023-06-05 15:43:48,964 - utilities.LogUtility -INFO - browser is closed
+2023-06-05 15:43:49,006 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-05 15:43:50,019 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:43:52,019 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 15:43:52,642 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:43:55,776 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 15:43:55,898 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-05 15:43:58,295 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-05 15:43:58,365 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-05 15:43:58,526 - utilities.LogUtility -INFO - Browser is closed
+2023-06-05 15:43:58,573 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-05 15:43:59,526 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-05 15:44:01,618 - utilities.LogUtility -INFO - URL is opened
+2023-06-05 15:44:02,226 - utilities.LogUtility -INFO - username and password is entered
+2023-06-05 15:44:03,623 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-05 15:44:03,803 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-06 11:29:07,725 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:29:09,662 - utilities.LogUtility -INFO - Url is opened
+2023-06-06 11:29:09,859 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:29:14,283 - utilities.LogUtility -INFO - login button is clicked
+2023-06-06 11:29:14,311 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-06 11:29:14,389 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-06 11:29:15,397 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-06 11:29:16,340 - utilities.LogUtility -INFO - Clicked on add new button
+2023-06-06 11:29:16,366 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-06 11:29:16,921 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-06 11:29:18,283 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-06 11:29:18,405 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-06 11:29:18,532 - utilities.LogUtility -INFO - Browser is closed
+2023-06-06 11:29:18,551 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-06 11:29:19,391 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:29:21,062 - utilities.LogUtility -INFO - Url is opened
+2023-06-06 11:29:21,245 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:29:25,488 - utilities.LogUtility -INFO - login button is clicked
+2023-06-06 11:29:25,512 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-06 11:29:25,588 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-06 11:29:27,439 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-06 11:29:27,667 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-06 11:29:27,732 - utilities.LogUtility -INFO - Click on search button
+2023-06-06 11:29:27,751 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-06 11:29:27,867 - utilities.LogUtility -INFO - browser is closed
+2023-06-06 11:29:27,882 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-06 11:29:28,561 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:29:29,459 - utilities.LogUtility -INFO - Url is opened
+2023-06-06 11:29:29,628 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:29:32,349 - utilities.LogUtility -INFO - login button is clicked
+2023-06-06 11:29:32,377 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-06 11:29:32,449 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-06 11:29:33,480 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-06 11:29:33,617 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-06 11:29:33,708 - utilities.LogUtility -INFO - search button is clicked
+2023-06-06 11:29:33,877 - utilities.LogUtility -INFO - browser is closed
+2023-06-06 11:29:33,909 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-06 11:29:34,594 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:29:35,319 - utilities.LogUtility -INFO - URL is opened
+2023-06-06 11:29:35,723 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:29:37,516 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-06 11:29:37,566 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-06 11:29:39,233 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-06 11:29:39,262 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-06 11:29:39,382 - utilities.LogUtility -INFO - Browser is closed
+2023-06-06 11:29:39,398 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-06 11:29:40,146 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:29:40,938 - utilities.LogUtility -INFO - URL is opened
+2023-06-06 11:29:41,261 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:29:43,073 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-06 11:29:43,121 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-06 11:29:44,513 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-06 11:29:44,541 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-06 11:29:44,667 - utilities.LogUtility -INFO - Browser is closed
+2023-06-06 11:29:44,682 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-06 11:29:45,425 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:29:46,213 - utilities.LogUtility -INFO - URL is opened
+2023-06-06 11:29:46,528 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:29:46,962 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-06 11:29:47,077 - utilities.LogUtility -INFO - Invalid username or password
+2023-06-06 11:35:43,782 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:35:45,612 - utilities.LogUtility -INFO - Url is opened
+2023-06-06 11:35:45,801 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:35:50,992 - utilities.LogUtility -INFO - login button is clicked
+2023-06-06 11:35:51,035 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-06 11:35:51,112 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-06 11:35:52,418 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-06 11:35:53,772 - utilities.LogUtility -INFO - Clicked on add new button
+2023-06-06 11:35:53,829 - utilities.LogUtility -INFO - Assertion for add new customer page
+2023-06-06 11:35:55,293 - utilities.LogUtility -INFO - Entering all customer info
+2023-06-06 11:35:57,194 - utilities.LogUtility -INFO - Clicked on saved button
+2023-06-06 11:35:57,493 - utilities.LogUtility -INFO - Doing assertion for confirmation message
+2023-06-06 11:35:57,781 - utilities.LogUtility -INFO - Browser is closed
+2023-06-06 11:35:57,813 - utilities.LogUtility -INFO -  adding customer is closed -------------------------------
+2023-06-06 11:35:59,009 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:36:01,450 - utilities.LogUtility -INFO - Url is opened
+2023-06-06 11:36:01,850 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:36:04,583 - utilities.LogUtility -INFO - login button is clicked
+2023-06-06 11:36:04,641 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-06 11:36:04,814 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-06 11:36:06,133 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-06 11:36:06,691 - utilities.LogUtility -INFO - entering customer email in field
+2023-06-06 11:36:06,884 - utilities.LogUtility -INFO - Click on search button
+2023-06-06 11:36:06,926 - utilities.LogUtility -INFO - Email id is present in table
+2023-06-06 11:36:07,125 - utilities.LogUtility -INFO - browser is closed
+2023-06-06 11:36:07,165 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-06 11:36:08,215 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:36:09,596 - utilities.LogUtility -INFO - Url is opened
+2023-06-06 11:36:10,088 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:36:15,637 - utilities.LogUtility -INFO - login button is clicked
+2023-06-06 11:36:15,745 - utilities.LogUtility -INFO - Doing assertion for dashboard
+2023-06-06 11:36:15,999 - utilities.LogUtility -INFO - Clicked on customer menu
+2023-06-06 11:36:17,452 - utilities.LogUtility -INFO - Clicked on customer menu item
+2023-06-06 11:36:17,833 - utilities.LogUtility -INFO - Searching customer by first name and lastname
+2023-06-06 11:36:18,013 - utilities.LogUtility -INFO - search button is clicked
+2023-06-06 11:36:18,218 - utilities.LogUtility -INFO - browser is closed
+2023-06-06 11:36:18,267 - utilities.LogUtility -INFO - Enter customer by email and first name and last named -------------------------------------
+2023-06-06 11:36:19,284 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:36:20,551 - utilities.LogUtility -INFO - URL is opened
+2023-06-06 11:36:21,033 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:36:23,266 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-06 11:36:23,408 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-06 11:36:25,045 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-06 11:36:25,123 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-06 11:36:25,318 - utilities.LogUtility -INFO - Browser is closed
+2023-06-06 11:36:25,362 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-06 11:36:26,378 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:36:27,755 - utilities.LogUtility -INFO - URL is opened
+2023-06-06 11:36:28,394 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:36:30,958 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-06 11:36:31,068 - utilities.LogUtility -INFO - Page title matched successfully Dashboard / nopCommerce administration
+2023-06-06 11:36:32,745 - utilities.LogUtility -INFO - Logout is clicked
+2023-06-06 11:36:32,801 - utilities.LogUtility -INFO - Page title matched successfully Your store. Login
+2023-06-06 11:36:32,959 - utilities.LogUtility -INFO - Browser is closed
+2023-06-06 11:36:32,995 - utilities.LogUtility -INFO - ----------------------------------------------------------------------------------------------
+2023-06-06 11:36:33,946 - utilities.LogUtility -INFO - Chrome browser is launched
+2023-06-06 11:36:35,226 - utilities.LogUtility -INFO - URL is opened
+2023-06-06 11:36:35,767 - utilities.LogUtility -INFO - username and password is entered
+2023-06-06 11:36:36,437 - utilities.LogUtility -INFO - Login button is clicked
+2023-06-06 11:36:36,718 - utilities.LogUtility -INFO - Invalid username or password
